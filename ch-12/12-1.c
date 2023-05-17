@@ -43,6 +43,7 @@ void main()
 	 }
 	 
 	 	printf("id\tname\tage\tcourse\tcity\tstd\tschool\n");
+
 	
 	for(i=0; i<n; i++)
 	{
